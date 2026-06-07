@@ -45,10 +45,9 @@ The project covers:
 
 ## Project Documentation
 
-The complete project documentation is available in:
+The complete project documentation is available here:
 
-**Requirements-Based Testing Project.pdf**
-
+[📄 Requirements-Based Testing Project.pdf](Requirements-Based%20Testing%20Project.pdf)
 ---
 
 ## Tools Used
